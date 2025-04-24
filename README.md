@@ -4,7 +4,7 @@
 CORE LAP (Computerized Relationship Layout Planning) is a heuristic algorithm used for optimal facility layout by arranging departments based on their **closeness relationships**. 
 It aims to **maximize the adjacency** of highly related departments, **enhancing process efficiency** and communication.
 
-# In my code:
+# In my code
 - Input: The inter-machine **order flow matrix**
 
 - Process:
